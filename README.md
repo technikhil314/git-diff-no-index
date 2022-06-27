@@ -11,3 +11,7 @@ The script does following
 5. then runs `git diff --no-index` with those two temp directories
 
 PS No need to delete temp directories as those are created on temp filesystem
+
+More context here
+https://twitter.com/kentcdodds/status/1541337555915997186
+https://stackoverflow.com/questions/72769098/get-the-no-index-diff-of-files-in-two-directories-but-ignore-patterns
